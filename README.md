@@ -32,11 +32,11 @@ this server as all data is stored here.
 * FNN (MLP)
   - Provides code for all general types of Feedforward Neural Networks in this project.
 * RNN
-    - Provides code for all general types of Reurrent Neural Networks in this project.
+    - Provides code for all general types of Recurrent Neural Networks in this project.
 * Combined (FNN+RNN)
     -  Provides code for all general combined models, which are a concatenation of the FNN and RNN.
 * Multiclass Classifier
-     - Provides code for all general types of Reurrent Neural Networks in this project.
+     - Provides code for all general types of Recurrent Neural Networks in this project.
 * Evaluation_Plots
     - Demonstrates the code used to create the plots used in my final report.
 
