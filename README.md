@@ -1,7 +1,7 @@
 # Final_year_Project
 Using deep learning to boost dark matter searches at the LHC in top-anti-top quark events. Very experimental code, not particularly readable or optimized
 
-Boosting Dark matter searches ta the LHC using machine earning
+Boosting Dark matter searches at the LHC using machine learning.
 
 
 The Large Hadron Collider (LHC) at CERN is the world’s most powerful particle accelerator. Following
